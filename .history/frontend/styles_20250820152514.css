@@ -1,0 +1,19 @@
+#out {
+    height: 350px;
+    overflow-y: auto;
+}
+
+.user-message {
+    text-align: right;
+    margin: 5px 0;
+}
+
+.ai-message {
+    text-align: left;
+    margin: 5px 0;
+}
+
+.typing-indicator {
+    font-style: italic;
+    color: gray;
+}
